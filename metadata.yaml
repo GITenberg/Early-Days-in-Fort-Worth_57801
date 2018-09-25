@@ -1,11 +1,16 @@
 _repo: Early-Days-in-Fort-Worth_57801
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57801-h/images/cover.jpg
 creator:
   author:
     agent_name: Paddock, B. B.
     gutenberg_agent_id: '49607'
     url: http://www.gutenberg.org/2009/agents/49607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57801#Early-Days-in-Fort-Worth
 gutenberg_issued: '2018-08-29'
 gutenberg_type: Text
 identifiers:
